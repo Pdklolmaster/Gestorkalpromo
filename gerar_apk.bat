@@ -1,7 +1,7 @@
 @echo off
 REM ╔══════════════════════════════════════════════════════════════╗
 REM ║  SCRIPT: Gerar APK do Gestor 50/30/20                       ║
-REM ║  Autor: Desenvolvido automaticamente                        ║
+REM ║  Autor: Pablo de oliveira silva                             ║
 REM ║  Data: Janeiro 2024                                         ║
 REM ╚══════════════════════════════════════════════════════════════╝
 
