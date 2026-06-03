@@ -1,3 +1,7 @@
+<img width="576" height="1280" alt="photo_4_2026-06-02_22-43-44" src="https://github.com/user-attachments/assets/763f5f14-9ae5-401c-97cb-c5155204c5ed" />
+<img width="576" height="1280" alt="photo_3_2026-06-02_22-43-44" src="https://github.com/user-attachments/assets/dd756d2b-67be-456c-8cc8-a120b5c34ddf" />
+<img width="576" height="1280" alt="photo_2_2026-06-02_22-43-44" src="https://github.com/user-attachments/assets/2c4e4581-6607-43bb-9329-f0146f8593a7" />
+<img width="576" height="1280" alt="photo_1_2026-06-02_22-43-44" src="https://github.com/user-attachments/assets/d941efbc-6414-48a5-a343-6a9c837c2d2f" />
 # Gestor-kal 📱📊
 
 O **Gestor-kal** é um aplicativo mobile de gestão financeira desenvolvido em Flutter, focado em inteligência orçamentária baseada na metodologia 50/30/20 e total privacidade dos dados do utilizador.
